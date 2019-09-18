@@ -1,0 +1,7 @@
+{
+    "name": "test-npm-package",
+    "version": "1.1.0",
+    "description": "Testing npm package",
+    "main": "test.min.js",
+    "license": "UPL-1.0"
+}
